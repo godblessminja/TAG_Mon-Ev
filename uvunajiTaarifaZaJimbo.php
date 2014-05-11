@@ -216,7 +216,7 @@
                             </tr> 
                              <tr>
                                 <td> 13 </td>
-                                <td  class="tbcell"> dsdsdsd </td>
+                                <td  class="tbcell"> Idadi ya ndoa za washirika zinazotambuliwa na kanisa mpaka sasa  - C1 </td>
                                 <td class="tbcell"> <input  type="text"/>  </td>
                                 <td class="tbcell"> <input  type="text"/>  </td>
                                 <td class="tbcell"> <input  type="text"/>  </td>
@@ -225,7 +225,7 @@
                             </tr> 
                              <tr>
                                 <td> 14 </td>
-                                <td  class="tbcell"> dsdsdsd </td>
+                                <td  class="tbcell"> Idadi ya Makanisa yanayofikia Jumuia na Makundi maalum - A3.3 & A3.4 (tafadhali ambatanisha orodha) </td>
                                 <td class="tbcell"> <input  type="text"/>  </td>
                                 <td class="tbcell"> <input  type="text"/>  </td>
                                 <td class="tbcell"> <input  type="text"/>  </td>
@@ -234,7 +234,7 @@
                             </tr> 
                              <tr>
                                 <td> 15 </td>
-                                <td  class="tbcell"> dsdsdsd </td>
+                                <td  class="tbcell"> Idadi ya Makanisa yanayotoa kwa ajili ya umisheni kupitia Idara ya Umisheni - B.1 </td>
                                 <td class="tbcell"> <input  type="text"/>  </td>
                                 <td class="tbcell"> <input  type="text"/>  </td>
                                 <td class="tbcell"> <input  type="text"/>  </td>
@@ -243,7 +243,7 @@
                             </tr> 
                              <tr>
                                 <td> 16 </td>
-                                <td  class="tbcell"> dsdsdsd </td>
+                                <td  class="tbcell"> Idadi ya Washirika wanaotoa fungu la kumi - C2 </td>
                                 <td class="tbcell"> <input  type="text"/>  </td>
                                 <td class="tbcell"> <input  type="text"/>  </td>
                                 <td class="tbcell"> <input  type="text"/>  </td>
@@ -252,7 +252,7 @@
                             </tr> 
                              <tr>
                                 <td> 17 </td>
-                                <td  class="tbcell"> dsdsdsd </td>
+                                <td  class="tbcell"> Idadi ya Makanisa ambayo mpaka sasa (mwaka huu tu) yamefundisha misingi ya imani, kujitenga na dunia na utakatifu C3 (Tumia Dodoso Na.1 kupata taarifa hizi). </td>
                                 <td class="tbcell"> <input  type="text"/>  </td>
                                 <td class="tbcell"> <input  type="text"/>  </td>
                                 <td class="tbcell"> <input  type="text"/>  </td>
@@ -261,7 +261,7 @@
                             </tr> 
                              <tr>
                                 <td> 18 </td>
-                                <td  class="tbcell"> dsdsdsd </td>
+                                <td  class="tbcell"> Idadi ya Makanisa yenye ibada za nyumba kwa nyumba na ibada za mkesha - C4 </td>
                                 <td class="tbcell"> <input  type="text"/>  </td>
                                 <td class="tbcell"> <input  type="text"/>  </td>
                                 <td class="tbcell"> <input  type="text"/>  </td>
@@ -269,8 +269,17 @@
                                <td class="tbcell"> <textarea rows="3" cols="20"> </textarea>  </td>
                             </tr> 
                              <tr>
+                                <td> 19 </td>
+                                <td  class="tbcell"> Idadi ya Makanisa yenye waalimu waliofundishwa kufundisha masomo ya shule ya Uanafunzi (Jumapili) - D2 </td>
+                                <td class="tbcell"> <input  type="text"/>  </td>
+                                <td class="tbcell"> <input  type="text"/>  </td>
+                                <td class="tbcell"> <input  type="text"/>  </td>
+                                <td class="tbcell"> <input  type="text"/>  </td> 
+                               <td class="tbcell"> <textarea rows="3" cols="20"> </textarea>  </td>
+                            </tr> 
+                            <tr>
                                 <td> 20 </td>
-                                <td  class="tbcell"> dsdsdsd </td>
+                                <td  class="tbcell"> Idadi ya makanisa yenye vyama hai (wanaohudhuria angalau mara moja kila mwezi) vya Wanaume - D6 </td>
                                 <td class="tbcell"> <input  type="text"/>  </td>
                                 <td class="tbcell"> <input  type="text"/>  </td>
                                 <td class="tbcell"> <input  type="text"/>  </td>
@@ -279,7 +288,70 @@
                             </tr> 
                            <tr>
                                 <td> 21 </td>
-                                <td  class="tbcell"> dsdsdsd </td>
+                                <td  class="tbcell"> Idadi ya makanisa yanayowasilisha mafungu yao ya kumi kila mwezi - H </td>
+                                <td class="tbcell"> <input  type="text"/>  </td>
+                                <td class="tbcell"> <input  type="text"/>  </td>
+                                <td class="tbcell"> <input  type="text"/>  </td>
+                                <td class="tbcell"> <input  type="text"/>  </td> 
+                               <td class="tbcell"> <textarea rows="3" cols="20"> </textarea>  </td>
+                            </tr> 
+                            <tr>
+                                <td> 22 </td>
+                                <td class="tbcell"> Idadi ya hati za kumiliki ardhi kwa jina la TAG - J.1.3 (Tafadhali ambatanisha orodha ya makanisa yenye hati) </td>
+                                <td colspan="6"> 
+                                    <table class="myTb3">
+                                        <tr>
+                                            <td class="tbcell"> Hati miliki au offer <br />  <input  type="text"/> </td>                                            
+                                            <td class="tbcell"> <input  type="text"/>  </td>
+                                            <td class="tbcell"> <input  type="text"/>  </td>
+                                            <td class="tbcell"> <input  type="text"/>  </td>
+                                            <td class="tbcell"> <textarea rows="3" cols="20"> </textarea>  </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="tbcell"> Hati ya serikali za mitaa <br />  <input  type="text"/> </td>                                            
+                                            <td class="tbcell"> <input  type="text"/>  </td>
+                                            <td class="tbcell"> <input  type="text"/>  </td>
+                                            <td class="tbcell"> <input  type="text"/>  </td>
+                                            <td class="tbcell"> <textarea rows="3" cols="20"> </textarea>  </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="tbcell"> Makubaliano mengine kimaandishi <br />  <input  type="text"/> </td>                                            
+                                            <td class="tbcell"> <input  type="text"/>  </td>
+                                            <td class="tbcell"> <input  type="text"/>  </td>
+                                            <td class="tbcell"> <input  type="text"/>  </td>
+                                            <td class="tbcell"> <textarea rows="3" cols="20"> </textarea>  </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="tbcell"> Makubaliano ya mdomo <br />  <input  type="text"/> </td>                                            
+                                            <td class="tbcell"> <input  type="text"/>  </td>
+                                            <td class="tbcell"> <input  type="text"/>  </td>
+                                            <td class="tbcell"> <input  type="text"/>  </td>
+                                            <td class="tbcell"> <textarea rows="3" cols="20"> </textarea>  </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="tbcell"> Kiwanja kina jina la mtu binafsi <br />  <input  type="text"/> </td>                                            
+                                            <td class="tbcell"> <input  type="text"/>  </td>
+                                            <td class="tbcell"> <input  type="text"/>  </td>
+                                            <td class="tbcell"> <input  type="text"/>  </td>
+                                            <td class="tbcell"> <textarea rows="3" cols="20"> </textarea>  </td>
+                                        </tr>
+                                        
+                                    </table>                                
+                                </td>                                                              
+                            </tr>
+                            
+                            <tr>
+                                <td> 23 </td>
+                                <td  class="tbcell"> Idadi ya Makanisa yanayojihusisha na kufundisha Neno katika vipindi vya dini mashuleni kwa kutumia Mtaala wa TAG - D.8 & D.9 </td>
+                                <td class="tbcell"> <input  type="text"/>  </td>
+                                <td class="tbcell"> <input  type="text"/>  </td>
+                                <td class="tbcell"> <input  type="text"/>  </td>
+                                <td class="tbcell"> <input  type="text"/>  </td> 
+                               <td class="tbcell"> <textarea rows="3" cols="20"> </textarea>  </td>
+                            </tr> 
+                            <tr>
+                                <td> 24 </td>
+                                <td  class="tbcell"> Idadi ya washirika wenye mahudhurio mazuri kwenye shughuli za kila chama chenye washirika (WWK, Wanaume, Vijana, Uanafunzi, Watoto) - D6 </td>
                                 <td class="tbcell"> <input  type="text"/>  </td>
                                 <td class="tbcell"> <input  type="text"/>  </td>
                                 <td class="tbcell"> <input  type="text"/>  </td>
